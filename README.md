@@ -1,4 +1,4 @@
-# online-shopping-webvsite-in-php
+# E-commerce-website-in-php
 
 Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
 
@@ -36,25 +36,3 @@ PHP: Hypertext Preprocessor (PHP) is atechnology that allows software developers
 dynamically generated web pages, in HTML, XML,or other document types, as per client request.
 PHP is open source software.
 
-MySQL: MySql is a database, widely used foraccessing querying, updating, and managing datain databases.
-Software Requirement(any one)
-WAMP Server
-XAMPP Server
-MAMP Server
-LAMP Server
-Installation Steps
-Download zip file and Unzip file on your local server.
-Put this file inside “c:/wamp/www/” .
-Database Configuration:
-Open phpmyadmin
-Create Database named “shop”.
-Import database shop.sql.
-Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
-user login details:
-Login Id: yugeshverma@gmail.com
-Password:123456
-
-
-visit- https://projkectworlds.in
